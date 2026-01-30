@@ -1,0 +1,16 @@
+# Core Dependencies
+numpy>=1.24.0
+pandas>=2.0.0
+scikit-learn>=1.2.0
+tensorflow>=2.12.0
+
+# Satellite Propagation
+sgp4>=2.21
+
+# Progress bars and utilities
+tqdm>=4.65.0
+joblib>=1.2.0
+
+# Optional: for visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0

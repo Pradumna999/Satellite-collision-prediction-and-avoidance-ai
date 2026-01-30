@@ -1,0 +1,736 @@
+=== SATELLITE COLLISION PREDICTION RESULTS ===
+Analysis Date: 2026-01-30 21:20:37
+Total Pairs Analyzed: 28
+Collisions Detected: 28
+
+⚠️ COLLISION WARNINGS ⚠️
+
+COLLISION #1
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Satellite Pair: ISS (ZARYA) vs STARLINK-1234
+Collision Probability: 52.1%
+Time to Collision: 10.3 days
+Predicted Collision Location:
+  Latitude:  0.4063°
+  Longitude: 0.7472°
+  Altitude:  577.06 km
+
+Current Telemetry:
+  Current Separation: 7512.47 km
+
+🛰️ RECOMMENDED AVOIDANCE MANEUVER:
+  Type: altitude_change
+  Direction: prograde
+  Delta-V Required: 130.84 m/s
+  Execute Time: 2026-02-08 04:57:33
+  Success Probability: 99.9%
+
+  Precautions:
+    • Verify post-maneuver trajectory
+    • Monitor conjunction for 72 hours
+    • Notify space traffic management
+
+
+COLLISION #2
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Satellite Pair: ISS (ZARYA) vs IRIDIUM-33-DEB
+Collision Probability: 52.1%
+Time to Collision: 10.3 days
+Predicted Collision Location:
+  Latitude:  0.4063°
+  Longitude: 0.7472°
+  Altitude:  577.06 km
+
+Current Telemetry:
+  Current Separation: 13010.19 km
+
+🛰️ RECOMMENDED AVOIDANCE MANEUVER:
+  Type: altitude_change
+  Direction: prograde
+  Delta-V Required: 130.84 m/s
+  Execute Time: 2026-02-08 04:57:33
+  Success Probability: 99.9%
+
+  Precautions:
+    • Verify post-maneuver trajectory
+    • Monitor conjunction for 72 hours
+    • Notify space traffic management
+
+
+COLLISION #3
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Satellite Pair: ISS (ZARYA) vs FENGYUN-1C-DEB
+Collision Probability: 52.1%
+Time to Collision: 10.3 days
+Predicted Collision Location:
+  Latitude:  0.4063°
+  Longitude: 0.7472°
+  Altitude:  577.06 km
+
+Current Telemetry:
+  Current Separation: 5820.47 km
+
+🛰️ RECOMMENDED AVOIDANCE MANEUVER:
+  Type: altitude_change
+  Direction: prograde
+  Delta-V Required: 130.84 m/s
+  Execute Time: 2026-02-08 04:57:33
+  Success Probability: 99.9%
+
+  Precautions:
+    • Verify post-maneuver trajectory
+    • Monitor conjunction for 72 hours
+    • Notify space traffic management
+
+
+COLLISION #4
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Satellite Pair: ISS (ZARYA) vs COSMOS-1408-DEB
+Collision Probability: 52.1%
+Time to Collision: 10.3 days
+Predicted Collision Location:
+  Latitude:  0.4063°
+  Longitude: 0.7472°
+  Altitude:  577.06 km
+
+Current Telemetry:
+  Current Separation: 10163.69 km
+
+🛰️ RECOMMENDED AVOIDANCE MANEUVER:
+  Type: altitude_change
+  Direction: prograde
+  Delta-V Required: 130.84 m/s
+  Execute Time: 2026-02-08 04:57:33
+  Success Probability: 99.9%
+
+  Precautions:
+    • Verify post-maneuver trajectory
+    • Monitor conjunction for 72 hours
+    • Notify space traffic management
+
+
+COLLISION #5
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Satellite Pair: ISS (ZARYA) vs STARLINK-3100-DEB
+Collision Probability: 52.1%
+Time to Collision: 10.3 days
+Predicted Collision Location:
+  Latitude:  0.4063°
+  Longitude: 0.7472°
+  Altitude:  577.06 km
+
+Current Telemetry:
+  Current Separation: 0.00 km
+
+🛰️ RECOMMENDED AVOIDANCE MANEUVER:
+  Type: altitude_change
+  Direction: prograde
+  Delta-V Required: 130.84 m/s
+  Execute Time: 2026-02-08 04:57:33
+  Success Probability: 99.9%
+
+  Precautions:
+    • Verify post-maneuver trajectory
+    • Monitor conjunction for 72 hours
+    • Notify space traffic management
+
+
+COLLISION #6
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Satellite Pair: ISS (ZARYA) vs UNKNOWN-DEB-1998
+Collision Probability: 52.1%
+Time to Collision: 10.3 days
+Predicted Collision Location:
+  Latitude:  0.4063°
+  Longitude: 0.7472°
+  Altitude:  577.06 km
+
+Current Telemetry:
+  Current Separation: 6944.90 km
+
+🛰️ RECOMMENDED AVOIDANCE MANEUVER:
+  Type: altitude_change
+  Direction: prograde
+  Delta-V Required: 130.84 m/s
+  Execute Time: 2026-02-08 04:57:33
+  Success Probability: 99.9%
+
+  Precautions:
+    • Verify post-maneuver trajectory
+    • Monitor conjunction for 72 hours
+    • Notify space traffic management
+
+
+COLLISION #7
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Satellite Pair: ISS (ZARYA) vs COSMOS-2251-DEB
+Collision Probability: 52.1%
+Time to Collision: 10.3 days
+Predicted Collision Location:
+  Latitude:  0.4063°
+  Longitude: 0.7472°
+  Altitude:  577.06 km
+
+Current Telemetry:
+  Current Separation: 13676.39 km
+
+🛰️ RECOMMENDED AVOIDANCE MANEUVER:
+  Type: altitude_change
+  Direction: prograde
+  Delta-V Required: 130.84 m/s
+  Execute Time: 2026-02-08 04:57:33
+  Success Probability: 99.9%
+
+  Precautions:
+    • Verify post-maneuver trajectory
+    • Monitor conjunction for 72 hours
+    • Notify space traffic management
+
+
+COLLISION #8
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Satellite Pair: STARLINK-1234 vs IRIDIUM-33-DEB
+Collision Probability: 52.1%
+Time to Collision: 10.3 days
+Predicted Collision Location:
+  Latitude:  0.4063°
+  Longitude: 0.7472°
+  Altitude:  577.06 km
+
+Current Telemetry:
+  Current Separation: 9683.56 km
+
+🛰️ RECOMMENDED AVOIDANCE MANEUVER:
+  Type: altitude_change
+  Direction: prograde
+  Delta-V Required: 133.38 m/s
+  Execute Time: 2026-02-08 04:57:33
+  Success Probability: 99.9%
+
+  Precautions:
+    • Verify post-maneuver trajectory
+    • Monitor conjunction for 72 hours
+    • Notify space traffic management
+
+
+COLLISION #9
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Satellite Pair: STARLINK-1234 vs FENGYUN-1C-DEB
+Collision Probability: 52.1%
+Time to Collision: 10.3 days
+Predicted Collision Location:
+  Latitude:  0.4063°
+  Longitude: 0.7472°
+  Altitude:  577.06 km
+
+Current Telemetry:
+  Current Separation: 9127.54 km
+
+🛰️ RECOMMENDED AVOIDANCE MANEUVER:
+  Type: altitude_change
+  Direction: prograde
+  Delta-V Required: 133.38 m/s
+  Execute Time: 2026-02-08 04:57:33
+  Success Probability: 99.9%
+
+  Precautions:
+    • Verify post-maneuver trajectory
+    • Monitor conjunction for 72 hours
+    • Notify space traffic management
+
+
+COLLISION #10
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Satellite Pair: STARLINK-1234 vs COSMOS-1408-DEB
+Collision Probability: 52.1%
+Time to Collision: 10.3 days
+Predicted Collision Location:
+  Latitude:  0.4063°
+  Longitude: 0.7472°
+  Altitude:  577.06 km
+
+Current Telemetry:
+  Current Separation: 11271.40 km
+
+🛰️ RECOMMENDED AVOIDANCE MANEUVER:
+  Type: altitude_change
+  Direction: prograde
+  Delta-V Required: 133.38 m/s
+  Execute Time: 2026-02-08 04:57:33
+  Success Probability: 99.9%
+
+  Precautions:
+    • Verify post-maneuver trajectory
+    • Monitor conjunction for 72 hours
+    • Notify space traffic management
+
+
+COLLISION #11
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Satellite Pair: STARLINK-1234 vs STARLINK-3100-DEB
+Collision Probability: 52.1%
+Time to Collision: 10.3 days
+Predicted Collision Location:
+  Latitude:  0.4063°
+  Longitude: 0.7472°
+  Altitude:  577.06 km
+
+Current Telemetry:
+  Current Separation: 0.00 km
+
+🛰️ RECOMMENDED AVOIDANCE MANEUVER:
+  Type: altitude_change
+  Direction: prograde
+  Delta-V Required: 133.38 m/s
+  Execute Time: 2026-02-08 04:57:33
+  Success Probability: 99.9%
+
+  Precautions:
+    • Verify post-maneuver trajectory
+    • Monitor conjunction for 72 hours
+    • Notify space traffic management
+
+
+COLLISION #12
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Satellite Pair: STARLINK-1234 vs UNKNOWN-DEB-1998
+Collision Probability: 52.1%
+Time to Collision: 10.3 days
+Predicted Collision Location:
+  Latitude:  0.4063°
+  Longitude: 0.7472°
+  Altitude:  577.06 km
+
+Current Telemetry:
+  Current Separation: 2196.12 km
+
+🛰️ RECOMMENDED AVOIDANCE MANEUVER:
+  Type: altitude_change
+  Direction: prograde
+  Delta-V Required: 133.38 m/s
+  Execute Time: 2026-02-08 04:57:33
+  Success Probability: 99.9%
+
+  Precautions:
+    • Verify post-maneuver trajectory
+    • Monitor conjunction for 72 hours
+    • Notify space traffic management
+
+
+COLLISION #13
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Satellite Pair: STARLINK-1234 vs COSMOS-2251-DEB
+Collision Probability: 52.1%
+Time to Collision: 10.3 days
+Predicted Collision Location:
+  Latitude:  0.4063°
+  Longitude: 0.7472°
+  Altitude:  577.06 km
+
+Current Telemetry:
+  Current Separation: 10483.86 km
+
+🛰️ RECOMMENDED AVOIDANCE MANEUVER:
+  Type: altitude_change
+  Direction: prograde
+  Delta-V Required: 133.38 m/s
+  Execute Time: 2026-02-08 04:57:33
+  Success Probability: 99.9%
+
+  Precautions:
+    • Verify post-maneuver trajectory
+    • Monitor conjunction for 72 hours
+    • Notify space traffic management
+
+
+COLLISION #14
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Satellite Pair: IRIDIUM-33-DEB vs FENGYUN-1C-DEB
+Collision Probability: 52.1%
+Time to Collision: 10.3 days
+Predicted Collision Location:
+  Latitude:  0.4063°
+  Longitude: 0.7472°
+  Altitude:  577.06 km
+
+Current Telemetry:
+  Current Separation: 13904.11 km
+
+🛰️ RECOMMENDED AVOIDANCE MANEUVER:
+  Type: altitude_change
+  Direction: prograde
+  Delta-V Required: 138.04 m/s
+  Execute Time: 2026-02-08 04:57:33
+  Success Probability: 99.9%
+
+  Precautions:
+    • Verify post-maneuver trajectory
+    • Monitor conjunction for 72 hours
+    • Notify space traffic management
+
+
+COLLISION #15
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Satellite Pair: IRIDIUM-33-DEB vs COSMOS-1408-DEB
+Collision Probability: 52.1%
+Time to Collision: 10.3 days
+Predicted Collision Location:
+  Latitude:  0.4063°
+  Longitude: 0.7472°
+  Altitude:  577.06 km
+
+Current Telemetry:
+  Current Separation: 7267.00 km
+
+🛰️ RECOMMENDED AVOIDANCE MANEUVER:
+  Type: altitude_change
+  Direction: prograde
+  Delta-V Required: 138.04 m/s
+  Execute Time: 2026-02-08 04:57:34
+  Success Probability: 99.9%
+
+  Precautions:
+    • Verify post-maneuver trajectory
+    • Monitor conjunction for 72 hours
+    • Notify space traffic management
+
+
+COLLISION #16
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Satellite Pair: IRIDIUM-33-DEB vs STARLINK-3100-DEB
+Collision Probability: 52.1%
+Time to Collision: 10.3 days
+Predicted Collision Location:
+  Latitude:  0.4063°
+  Longitude: 0.7472°
+  Altitude:  577.06 km
+
+Current Telemetry:
+  Current Separation: 0.00 km
+
+🛰️ RECOMMENDED AVOIDANCE MANEUVER:
+  Type: altitude_change
+  Direction: prograde
+  Delta-V Required: 138.04 m/s
+  Execute Time: 2026-02-08 04:57:34
+  Success Probability: 99.9%
+
+  Precautions:
+    • Verify post-maneuver trajectory
+    • Monitor conjunction for 72 hours
+    • Notify space traffic management
+
+
+COLLISION #17
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Satellite Pair: IRIDIUM-33-DEB vs UNKNOWN-DEB-1998
+Collision Probability: 52.1%
+Time to Collision: 10.3 days
+Predicted Collision Location:
+  Latitude:  0.4063°
+  Longitude: 0.7472°
+  Altitude:  577.06 km
+
+Current Telemetry:
+  Current Separation: 9561.31 km
+
+🛰️ RECOMMENDED AVOIDANCE MANEUVER:
+  Type: altitude_change
+  Direction: prograde
+  Delta-V Required: 138.04 m/s
+  Execute Time: 2026-02-08 04:57:34
+  Success Probability: 99.9%
+
+  Precautions:
+    • Verify post-maneuver trajectory
+    • Monitor conjunction for 72 hours
+    • Notify space traffic management
+
+
+COLLISION #18
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Satellite Pair: IRIDIUM-33-DEB vs COSMOS-2251-DEB
+Collision Probability: 52.1%
+Time to Collision: 10.3 days
+Predicted Collision Location:
+  Latitude:  0.4063°
+  Longitude: 0.7472°
+  Altitude:  577.06 km
+
+Current Telemetry:
+  Current Separation: 3769.22 km
+
+🛰️ RECOMMENDED AVOIDANCE MANEUVER:
+  Type: altitude_change
+  Direction: prograde
+  Delta-V Required: 138.04 m/s
+  Execute Time: 2026-02-08 04:57:34
+  Success Probability: 99.9%
+
+  Precautions:
+    • Verify post-maneuver trajectory
+    • Monitor conjunction for 72 hours
+    • Notify space traffic management
+
+
+COLLISION #19
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Satellite Pair: FENGYUN-1C-DEB vs COSMOS-1408-DEB
+Collision Probability: 52.1%
+Time to Collision: 10.3 days
+Predicted Collision Location:
+  Latitude:  0.4063°
+  Longitude: 0.7472°
+  Altitude:  577.06 km
+
+Current Telemetry:
+  Current Separation: 12990.94 km
+
+🛰️ RECOMMENDED AVOIDANCE MANEUVER:
+  Type: altitude_change
+  Direction: prograde
+  Delta-V Required: 134.71 m/s
+  Execute Time: 2026-02-08 04:57:34
+  Success Probability: 99.9%
+
+  Precautions:
+    • Verify post-maneuver trajectory
+    • Monitor conjunction for 72 hours
+    • Notify space traffic management
+
+
+COLLISION #20
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Satellite Pair: FENGYUN-1C-DEB vs STARLINK-3100-DEB
+Collision Probability: 52.1%
+Time to Collision: 10.3 days
+Predicted Collision Location:
+  Latitude:  0.4063°
+  Longitude: 0.7472°
+  Altitude:  577.06 km
+
+Current Telemetry:
+  Current Separation: 0.00 km
+
+🛰️ RECOMMENDED AVOIDANCE MANEUVER:
+  Type: altitude_change
+  Direction: prograde
+  Delta-V Required: 134.71 m/s
+  Execute Time: 2026-02-08 04:57:34
+  Success Probability: 99.9%
+
+  Precautions:
+    • Verify post-maneuver trajectory
+    • Monitor conjunction for 72 hours
+    • Notify space traffic management
+
+
+COLLISION #21
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Satellite Pair: FENGYUN-1C-DEB vs UNKNOWN-DEB-1998
+Collision Probability: 52.1%
+Time to Collision: 10.3 days
+Predicted Collision Location:
+  Latitude:  0.4063°
+  Longitude: 0.7472°
+  Altitude:  577.06 km
+
+Current Telemetry:
+  Current Separation: 9923.31 km
+
+🛰️ RECOMMENDED AVOIDANCE MANEUVER:
+  Type: altitude_change
+  Direction: prograde
+  Delta-V Required: 134.71 m/s
+  Execute Time: 2026-02-08 04:57:34
+  Success Probability: 99.9%
+
+  Precautions:
+    • Verify post-maneuver trajectory
+    • Monitor conjunction for 72 hours
+    • Notify space traffic management
+
+
+COLLISION #22
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Satellite Pair: FENGYUN-1C-DEB vs COSMOS-2251-DEB
+Collision Probability: 52.1%
+Time to Collision: 10.3 days
+Predicted Collision Location:
+  Latitude:  0.4063°
+  Longitude: 0.7472°
+  Altitude:  577.06 km
+
+Current Telemetry:
+  Current Separation: 12933.07 km
+
+🛰️ RECOMMENDED AVOIDANCE MANEUVER:
+  Type: altitude_change
+  Direction: prograde
+  Delta-V Required: 134.71 m/s
+  Execute Time: 2026-02-08 04:57:34
+  Success Probability: 99.9%
+
+  Precautions:
+    • Verify post-maneuver trajectory
+    • Monitor conjunction for 72 hours
+    • Notify space traffic management
+
+
+COLLISION #23
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Satellite Pair: COSMOS-1408-DEB vs STARLINK-3100-DEB
+Collision Probability: 52.1%
+Time to Collision: 10.3 days
+Predicted Collision Location:
+  Latitude:  0.4063°
+  Longitude: 0.7472°
+  Altitude:  577.06 km
+
+Current Telemetry:
+  Current Separation: 0.00 km
+
+🛰️ RECOMMENDED AVOIDANCE MANEUVER:
+  Type: altitude_change
+  Direction: prograde
+  Delta-V Required: 133.24 m/s
+  Execute Time: 2026-02-08 04:57:34
+  Success Probability: 99.9%
+
+  Precautions:
+    • Verify post-maneuver trajectory
+    • Monitor conjunction for 72 hours
+    • Notify space traffic management
+
+
+COLLISION #24
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Satellite Pair: COSMOS-1408-DEB vs UNKNOWN-DEB-1998
+Collision Probability: 52.1%
+Time to Collision: 10.3 days
+Predicted Collision Location:
+  Latitude:  0.4063°
+  Longitude: 0.7472°
+  Altitude:  577.06 km
+
+Current Telemetry:
+  Current Separation: 10079.38 km
+
+🛰️ RECOMMENDED AVOIDANCE MANEUVER:
+  Type: altitude_change
+  Direction: prograde
+  Delta-V Required: 133.24 m/s
+  Execute Time: 2026-02-08 04:57:34
+  Success Probability: 99.9%
+
+  Precautions:
+    • Verify post-maneuver trajectory
+    • Monitor conjunction for 72 hours
+    • Notify space traffic management
+
+
+COLLISION #25
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Satellite Pair: COSMOS-1408-DEB vs COSMOS-2251-DEB
+Collision Probability: 52.1%
+Time to Collision: 10.3 days
+Predicted Collision Location:
+  Latitude:  0.4063°
+  Longitude: 0.7472°
+  Altitude:  577.06 km
+
+Current Telemetry:
+  Current Separation: 9554.12 km
+
+🛰️ RECOMMENDED AVOIDANCE MANEUVER:
+  Type: altitude_change
+  Direction: prograde
+  Delta-V Required: 133.24 m/s
+  Execute Time: 2026-02-08 04:57:34
+  Success Probability: 99.9%
+
+  Precautions:
+    • Verify post-maneuver trajectory
+    • Monitor conjunction for 72 hours
+    • Notify space traffic management
+
+
+COLLISION #26
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Satellite Pair: STARLINK-3100-DEB vs UNKNOWN-DEB-1998
+Collision Probability: 52.1%
+Time to Collision: 10.3 days
+Predicted Collision Location:
+  Latitude:  0.4063°
+  Longitude: 0.7472°
+  Altitude:  577.06 km
+
+Current Telemetry:
+  Current Separation: 0.00 km
+
+🛰️ RECOMMENDED AVOIDANCE MANEUVER:
+  Type: altitude_change
+  Direction: prograde
+  Delta-V Required: 128.39 m/s
+  Execute Time: 2026-02-08 04:57:34
+  Success Probability: 99.9%
+
+  Precautions:
+    • Verify post-maneuver trajectory
+    • Monitor conjunction for 72 hours
+    • Notify space traffic management
+
+
+COLLISION #27
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Satellite Pair: STARLINK-3100-DEB vs COSMOS-2251-DEB
+Collision Probability: 52.1%
+Time to Collision: 10.3 days
+Predicted Collision Location:
+  Latitude:  0.4063°
+  Longitude: 0.7472°
+  Altitude:  577.06 km
+
+Current Telemetry:
+  Current Separation: 0.00 km
+
+🛰️ RECOMMENDED AVOIDANCE MANEUVER:
+  Type: altitude_change
+  Direction: prograde
+  Delta-V Required: 128.39 m/s
+  Execute Time: 2026-02-08 04:57:34
+  Success Probability: 99.9%
+
+  Precautions:
+    • Verify post-maneuver trajectory
+    • Monitor conjunction for 72 hours
+    • Notify space traffic management
+
+
+COLLISION #28
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Satellite Pair: UNKNOWN-DEB-1998 vs COSMOS-2251-DEB
+Collision Probability: 52.1%
+Time to Collision: 10.3 days
+Predicted Collision Location:
+  Latitude:  0.4063°
+  Longitude: 0.7472°
+  Altitude:  577.06 km
+
+Current Telemetry:
+  Current Separation: 11066.48 km
+
+🛰️ RECOMMENDED AVOIDANCE MANEUVER:
+  Type: altitude_change
+  Direction: prograde
+  Delta-V Required: 136.07 m/s
+  Execute Time: 2026-02-08 04:57:34
+  Success Probability: 99.9%
+
+  Precautions:
+    • Verify post-maneuver trajectory
+    • Monitor conjunction for 72 hours
+    • Notify space traffic management
+
+
+✓ SAFE PAIRS (0)
